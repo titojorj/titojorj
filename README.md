@@ -1,6 +1,6 @@
 ![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm4xdDhmdzdwZ3I1MHZhdWo4d2ppOTZ4ZTY5YXNyZDIzMjFlenN0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif)
 <h1 align="center">Hi 👋, I'm Jorj</h1>
-<h3 align="center">A passionate Data enthusiast from India</h3>
+<h3 align="center">A passionate Data enthusiast from 🇮🇳</h3>
 <img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media">
 
 - 🌱 I’m currently learning **Advance Python, Advance Supervised Algorithm, Neural Networks, Unsupervised Recsys,Computer Vision, NLP**
